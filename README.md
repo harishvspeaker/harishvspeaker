@@ -12,8 +12,8 @@
 
 🎨 Fun fact: I prefer dark-themed code editors because I like my code how I like my coffee – dark and intense! But hey, if you're a light-theme lover, I won't judge... much! 😜
 
-💌 Got a data challenge? Ping me at harishvspeaker@gmail.com, and let's turn that data frown upside down! 😄
-- ⚡ **Fun fact**: I once turned a spreadsheet into a symphony! And yes, it was a chart-topper! 🎶
+
+
 
 <h3 align="left">Let's Connect: 🤝</h3>
 <p align="left">
