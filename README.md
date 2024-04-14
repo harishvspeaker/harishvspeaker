@@ -6,14 +6,8 @@
 
 - 💬 **Talk nerdy to me!** From SQL queries to Python scripts, or how Java is the espresso of languages ☕
 
-- 📫 **Ping me** at **harishvspeaker@gmail.com**. If it's a funny cat meme, I'll reply twice as fast! 🐱
+- 📫 💌 Got a data challenge? Ping me at harishvspeaker@gmail.com, and let's turn that data frown upside down! 😄
   
-📊 As a Data Engineer, I turn chaos into clarity, spaghetti data into organized tables, and zeros and ones into... well, ones and zeros. 
-
-💾 SQL is my second language, and Python is my right-hand man (or should I say, right-hand snake? 🐍). I'm fluent in Java, and I speak R with a British accent!
-
-🛠️ When I'm not juggling databases, you'll find me playing with Spark, dancing with Airflow, and orchestrating data like a maestro.
-
 🌐 I believe in the power of the cloud (no, not the fluffy kind ☁️). AWS, Azure, GCP - I've got a passport to all these data paradises.
 
 🎨 Fun fact: I prefer dark-themed code editors because I like my code how I like my coffee – dark and intense! But hey, if you're a light-theme lover, I won't judge... much! 😜
