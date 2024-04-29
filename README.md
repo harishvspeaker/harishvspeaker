@@ -52,8 +52,6 @@
     <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="funny gif" width="300"/>
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="cat meme" width="300"/>
 </p>
-<marquee behavior="scroll" direction="left" scrollamount="5">
-    Vaishnavi ❤️
-</marquee>
+
 
 
