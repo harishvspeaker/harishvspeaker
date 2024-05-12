@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hey there, I'm Harish, your data DJ spinning bytes into insights!</h1>
+<h1 align="center">👨‍💻 Hey there, I'm Harish, your data DJ spinning bytes into insights!</h1>,
 
 <h3 align="center">Turning data into insights, one byte and pun at a time!</h3>
 
